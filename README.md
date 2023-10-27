@@ -1,3 +1,9 @@
+# website url
+https://youtubeclonebysumit.netlify.app/
+
+# use of technology
+react with https://rapidapi.com/ and material ui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
